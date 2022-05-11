@@ -7,6 +7,7 @@ docker-compose up -d
 #### Remove all running containers
 
 > docker-compose down --rmi all
+
 > docker-compose up -d
 
 ---
@@ -14,6 +15,7 @@ docker-compose up -d
 ##### docker compose up
 
 > docker-compose up --build
+
 > docker-compose up -d
 
 #### Note: if ou run the following command:
